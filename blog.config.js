@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'YANG',
-  author: 'Yang',
+  title: '白洋',
+  author: '白洋',
   email: 'hey.yangbai@gmail.com',
   link: 'https://yangbai.net',
   description: '透过文字，发现',
