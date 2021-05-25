@@ -3,7 +3,7 @@ const BLOG = {
   author: 'YANG',
   email: 'hey.yangbai@gmail.com',
   link: 'https://yangbai.net',
-  description: 'ALCHEMIST',
+  description: 'Alchemist 炼金术士',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
