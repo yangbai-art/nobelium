@@ -4,7 +4,7 @@ const BLOG = {
   email: 'hey.yangbai@gmail.com',
   link: 'https://yangbai.net',
   description: '透过文字，发现',
-  lang: 'en-US',
+  lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
