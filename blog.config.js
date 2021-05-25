@@ -1,14 +1,14 @@
 const BLOG = {
   title: 'YANG',
-  author: '白洋',
+  author: 'YANG',
   email: 'hey.yangbai@gmail.com',
   link: 'https://yangbai.net',
-  description: '透过文字，发现',
+  description: ' 透过文字，发现',
   lang: 'zh-CN',
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
-  lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#111827', // use hex value, don't forget '#'
+  lightBackground: '#ffdfbf', // use hex value, don't forget '#' e.g #fffefc
+  darkBackground: '#15322d', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2021, // if leave this empty, current year will be used.
   postsPerPage: 7,
